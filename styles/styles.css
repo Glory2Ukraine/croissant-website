@@ -14,8 +14,19 @@ p {
   color: #85586f;
 }
 
-.homepage,
-.photo,
-.contact {
+footer {
+  text-align: center;
+  margin-top: 20px;
+}
+
+footer a {
+  margin: 0 10px;
+  color: #7f669d;
+}
+
+img {
   display: block;
+  margin: 30px auto;
+  max-width: 80%;
+  border-radius: 7px;
 }
