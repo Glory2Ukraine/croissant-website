@@ -1,0 +1,21 @@
+body {
+  background-color: #f8ede3;
+}
+
+h1 {
+  text-align: center;
+  color: #85586f;
+}
+
+p {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  color: #85586f;
+}
+
+.homepage,
+.photo,
+.contact {
+  display: block;
+}
